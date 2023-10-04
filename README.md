@@ -1,1 +1,5 @@
-# Formulario-de-Validaci-n
+# Formulario-de-Validacion
+ Explique el funcionamiento de la etiqueta input en HTML, indicando los diferentes argumentos que puede tener. Se utiliza para crear elementos de entrada interactivos, los cuales permiten a los usuarios ingresar datos. Entre los atributos que puede tener el elemento input, se encuentran: * *type*, el cual define el tipo de elemento de entrada que se va a crear, ya sea puro texto, de contraseña, un checkbox, un radiobutton, etc. * *name*, el cual nos ayuda a asignar un nombre para el elemento de entrada. Los nombres deben ser únicos dentro del formulario. * *value*, este atributo establece un valor predeterminado para el elemento de entrada, este aparecerá dentro del campo hasta que el usuario lo cambie. * *disabled*, si se establece este atributo, el elemento de entrada se deshabilita y el usuario no puede interactuar con él ni enviar su valor.
+ Explique como puede configurarse la etiqueta button.
+ Explique el método addEventlistener y como se utiliza en este proyecto.
+ Explique la forma en que son validadas cada una de las entradas.
